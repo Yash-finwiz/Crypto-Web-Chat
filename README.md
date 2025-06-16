@@ -2,6 +2,9 @@
 
 A modern, interactive chat interface for cryptocurrency information powered by the CoinGecko API. This application allows users to get real-time cryptocurrency data through a conversational interface with text-to-speech capabilities.
 
+# Architecture
+![deepseek_mermaid_20250614_86a251](https://github.com/user-attachments/assets/c63467ea-62ec-4643-b5ea-e78a3a4266de)
+
 ## Features
 
 - **Real-time Cryptocurrency Price Information**: Ask about any cryptocurrency price (e.g., "What's the price of Bitcoin?", "How much is ETH trading at?")
